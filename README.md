@@ -1,0 +1,2 @@
+# GKcollege
+compilation of codes
