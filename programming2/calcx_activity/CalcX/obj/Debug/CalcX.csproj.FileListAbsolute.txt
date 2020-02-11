@@ -1,0 +1,8 @@
+C:\Users\warlito.torrente\source\repos\Data Harvester\calcx_activity\CalcX\CalcX\bin\Debug\CalcX.exe.config
+C:\Users\warlito.torrente\source\repos\Data Harvester\calcx_activity\CalcX\CalcX\bin\Debug\CalcX.exe
+C:\Users\warlito.torrente\source\repos\Data Harvester\calcx_activity\CalcX\CalcX\bin\Debug\CalcX.pdb
+C:\Users\warlito.torrente\source\repos\Data Harvester\calcx_activity\CalcX\CalcX\obj\Debug\CalcX.calculator.resources
+C:\Users\warlito.torrente\source\repos\Data Harvester\calcx_activity\CalcX\CalcX\obj\Debug\CalcX.Properties.Resources.resources
+C:\Users\warlito.torrente\source\repos\Data Harvester\calcx_activity\CalcX\CalcX\obj\Debug\CalcX.csproj.GenerateResource.cache
+C:\Users\warlito.torrente\source\repos\Data Harvester\calcx_activity\CalcX\CalcX\obj\Debug\CalcX.exe
+C:\Users\warlito.torrente\source\repos\Data Harvester\calcx_activity\CalcX\CalcX\obj\Debug\CalcX.pdb

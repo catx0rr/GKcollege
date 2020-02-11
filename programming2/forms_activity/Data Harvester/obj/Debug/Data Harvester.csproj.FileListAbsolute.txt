@@ -1,0 +1,17 @@
+C:\Users\warlito.torrente\source\repos\Data Harvester\Data Harvester\bin\Debug\Data Harvester.exe.config
+C:\Users\warlito.torrente\source\repos\Data Harvester\Data Harvester\bin\Debug\Data Harvester.exe
+C:\Users\warlito.torrente\source\repos\Data Harvester\Data Harvester\bin\Debug\Data Harvester.pdb
+C:\Users\warlito.torrente\source\repos\Data Harvester\Data Harvester\obj\Debug\Data_Harvester.DataHarvesterForm.resources
+C:\Users\warlito.torrente\source\repos\Data Harvester\Data Harvester\obj\Debug\Data_Harvester.Properties.Resources.resources
+C:\Users\warlito.torrente\source\repos\Data Harvester\Data Harvester\obj\Debug\Data Harvester.csproj.GenerateResource.cache
+C:\Users\warlito.torrente\source\repos\Data Harvester\Data Harvester\obj\Debug\Data Harvester.exe
+C:\Users\warlito.torrente\source\repos\Data Harvester\Data Harvester\obj\Debug\Data Harvester.pdb
+C:\Users\warlito.torrente\source\repos\Data Harvester\Data Harvester\obj\Debug\Data Harvester.csprojAssemblyReference.cache
+C:\Users\warlito.torrente\source\repos\Data Harvester\forms_activity\Data Harvester\bin\Debug\Data Harvester.exe.config
+C:\Users\warlito.torrente\source\repos\Data Harvester\forms_activity\Data Harvester\bin\Debug\Data Harvester.exe
+C:\Users\warlito.torrente\source\repos\Data Harvester\forms_activity\Data Harvester\bin\Debug\Data Harvester.pdb
+C:\Users\warlito.torrente\source\repos\Data Harvester\forms_activity\Data Harvester\obj\Debug\Data_Harvester.DataHarvesterForm.resources
+C:\Users\warlito.torrente\source\repos\Data Harvester\forms_activity\Data Harvester\obj\Debug\Data_Harvester.Properties.Resources.resources
+C:\Users\warlito.torrente\source\repos\Data Harvester\forms_activity\Data Harvester\obj\Debug\Data Harvester.csproj.GenerateResource.cache
+C:\Users\warlito.torrente\source\repos\Data Harvester\forms_activity\Data Harvester\obj\Debug\Data Harvester.exe
+C:\Users\warlito.torrente\source\repos\Data Harvester\forms_activity\Data Harvester\obj\Debug\Data Harvester.pdb
