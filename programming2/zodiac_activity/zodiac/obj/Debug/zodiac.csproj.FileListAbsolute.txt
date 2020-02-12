@@ -7,3 +7,12 @@ C:\Users\warlito.torrente\source\repos\Data Harvester\zodiac_activity\zodiac\zod
 C:\Users\warlito.torrente\source\repos\Data Harvester\zodiac_activity\zodiac\zodiac\obj\Debug\zodiac.csproj.GenerateResource.cache
 C:\Users\warlito.torrente\source\repos\Data Harvester\zodiac_activity\zodiac\zodiac\obj\Debug\zodiac.exe
 C:\Users\warlito.torrente\source\repos\Data Harvester\zodiac_activity\zodiac\zodiac\obj\Debug\zodiac.pdb
+C:\Users\warlito.torrente\source\repos\GKcollege\programming2\zodiac_activity\zodiac\bin\Debug\zodiac.exe.config
+C:\Users\warlito.torrente\source\repos\GKcollege\programming2\zodiac_activity\zodiac\bin\Debug\zodiac.exe
+C:\Users\warlito.torrente\source\repos\GKcollege\programming2\zodiac_activity\zodiac\bin\Debug\zodiac.pdb
+C:\Users\warlito.torrente\source\repos\GKcollege\programming2\zodiac_activity\zodiac\obj\Debug\zodiac.csprojAssemblyReference.cache
+C:\Users\warlito.torrente\source\repos\GKcollege\programming2\zodiac_activity\zodiac\obj\Debug\zodiac.zodiacForm.resources
+C:\Users\warlito.torrente\source\repos\GKcollege\programming2\zodiac_activity\zodiac\obj\Debug\zodiac.Properties.Resources.resources
+C:\Users\warlito.torrente\source\repos\GKcollege\programming2\zodiac_activity\zodiac\obj\Debug\zodiac.csproj.GenerateResource.cache
+C:\Users\warlito.torrente\source\repos\GKcollege\programming2\zodiac_activity\zodiac\obj\Debug\zodiac.exe
+C:\Users\warlito.torrente\source\repos\GKcollege\programming2\zodiac_activity\zodiac\obj\Debug\zodiac.pdb
