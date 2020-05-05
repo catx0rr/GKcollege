@@ -1,0 +1,11 @@
+C:\Users\catx\source\repos\information_system\information_system\bin\Debug\information_system.exe.config
+C:\Users\catx\source\repos\information_system\information_system\bin\Debug\information_system.exe
+C:\Users\catx\source\repos\information_system\information_system\bin\Debug\information_system.pdb
+C:\Users\catx\source\repos\information_system\information_system\obj\Debug\information_system.csprojAssemblyReference.cache
+C:\Users\catx\source\repos\information_system\information_system\obj\Debug\information_system.Properties.Resources.resources
+C:\Users\catx\source\repos\information_system\information_system\obj\Debug\information_system.csproj.GenerateResource.cache
+C:\Users\catx\source\repos\information_system\information_system\obj\Debug\information_system.exe
+C:\Users\catx\source\repos\information_system\information_system\obj\Debug\information_system.pdb
+C:\Users\catx\source\repos\information_system\information_system\obj\Debug\information_system.login_f1.resources
+C:\Users\catx\source\repos\information_system\information_system\obj\Debug\information_system.information_system_f2.resources
+C:\Users\catx\source\repos\information_system\information_system\obj\Debug\information_system.information_system_f3.resources
